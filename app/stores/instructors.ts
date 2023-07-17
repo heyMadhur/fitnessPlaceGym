@@ -2,23 +2,23 @@ import { InstructorType } from "../types";
 
 export const instructors: InstructorType[] = [
     {
-        name: "Leslie Alexander",
-        imageSrc: "/images/Leslie-Alexander.png",
-        role: "Gym trainer"
+        name: "Ashu Pandit",
+        imageSrc: "/images/trainers/ashu1.jpg",
+        role: "Personal Trainer (Owner)"
     },
     {
-        name: "Jacob Jones",
-        imageSrc: "/images/Jacob-Jones.jpg",
-        role: "Martial arts trainer"
+        name: "Akki Choudhary",
+        imageSrc: "/images/trainers/akki1.jpg",
+        role: "Gym Trainer"
     },
-    {
-        name: "Cameron Williamson",
-        imageSrc: "/images/Cameron-Williamson.png",
-        role: "Gym trainer"
-    },
-    {
-        name: "Jane Cooper",
-        imageSrc: "/images/Jane-Cooper.png",
-        role: "Yoga trainer"
-    }
+    // {
+    //     name: "Cameron Williamson",
+    //     imageSrc: "/images/Cameron-Williamson.png",
+    //     role: "Gym trainer"
+    // },
+    // {
+    //     name: "Jane Cooper",
+    //     imageSrc: "/images/Jane-Cooper.png",
+    //     role: "Yoga trainer"
+    // }
 ]

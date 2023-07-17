@@ -16,9 +16,9 @@ function Instructors() {
                         )
                     })}
                 </div>
-                <BrandButton>
+                {/* <BrandButton>
                     All instructors
-                </BrandButton>
+                </BrandButton> */}
             </div>
             <div className="absolute w-3/12 h-12 bg-brand/10 bottom-[34%] left-0"></div>
             <div className="absolute w-7/12 h-12 bg-brand/10 bottom-[24%] left-0"></div>

@@ -17,8 +17,8 @@ export const categories: Category[] = [
         description: "Expect a heart-pumping workout that will leave you feeling energized and accomplished. Our supportive community of like-minded individuals."
     },
     {
-        name: "Martial Arts",
-        imageSrc: "/images/martial-arts-image.png",
+        name: "Cross Fit",
+        imageSrc: "/images/crossfit-woman-image.jpg",
         description: "Expect a heart-pumping workout that will leave you feeling energized and accomplished. Our supportive community of like-minded individuals."
     }
 ]

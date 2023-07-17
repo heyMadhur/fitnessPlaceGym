@@ -16,9 +16,9 @@ function Classes() {
                     })
                 }
             </div>
-            <BrandButton>
+            {/* <BrandButton>
                 See all
-            </BrandButton>
+            </BrandButton> */}
         </div>
     );
 }

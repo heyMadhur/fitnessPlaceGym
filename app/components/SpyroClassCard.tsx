@@ -70,9 +70,9 @@ function SpyroClassesCard(spyroClass: SpyroClass){
                         </div>
                     </button>
                     <button className="parallelogram px-4 py-2 text-sm border border-white hover:border-brand hover:text-brand transition-all duration-300 mr-2">
-                        <div>
+                        <a href="#contact">
                             Start a free trial
-                        </div>
+                        </a>
                     </button>
                 </div>
             </div>
